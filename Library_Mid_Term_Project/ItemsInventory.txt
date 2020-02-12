@@ -1,0 +1,12 @@
+Book|I Was Told There'd Be Cake|Sloane Crosley|From despoiling an exhibit at the Natural History Museum to provoking the ire of her first boss to siccing the cops on her mysterious neighbor, Crosley can do no right despite the best of intentions|False|2/24/2020 3:24:23 PM|230
+Book|The Man Without Qualities|Robert Musil|Set in Vienna on the eve of World War I, this great novel of ideas tells the story of Ulrich, ex-soldier and scientist, seducer and skeptic, who finds himself drafted into the grandiose plans for the 70th jubilee of the Emperor Franz Josef.|False|2/24/2020 3:30:51 PM|1174
+Book|Where the Wild Things Are|Maurice Sendak|That night a forest begins to grow in Max's room and an ocean rushes by with a boat to take Max to the place where the wild things are.  Max tames the wild things and crowns himself as their king, and then the wild rumpus begins!|True|1/1/1920 12:00:00 AM|37
+Book|Alexander and the Terrible, Horrible, No Good, Very Bad Day|Judith Viorst|The perennially popular tale of Alexander's worst day is a storybook that belongs on every child's bookshelf.|True|1/1/1920 12:00:00 AM|32
+Book|The Zombie Room|R.D. Ronald|An unlikely bond is forged between three men from very different backgrounds when they serve time together in prison.|True|2/24/2020 12:48:42 PM|241
+Movie|Men in Black: International|Art Marcum|The Men in Black have expanded to cover the globe but so have the villains of the universe.|True|2/24/2020 12:51:08 PM|115mins
+Movie|Creed II|Sylvester Stallone|Under guidance from Rocky Balboa, Adonis Creed prepares for an epic showdown against the son of Ivan Drago; Victor Drago|True|2/24/2020 1:32:13 PM|133mins
+Magazine|Wired|Conde Nast|Whether you're a tech geek or business entrepreneur, WIRED is the magazine that is known for covering all things tech, and how these tech trends relate to other aspects of life.|True|1/1/1920 12:00:00 AM|75
+Magazine|Thrasher|John Smith|Thrasher is a skateboarding magazine.|True|1/1/1920 12:00:00 AM|54
+Book|Lord of The Rings|J.R.R. Tolkien|Two hobbits take a ring to a place.|True|1/1/1920 12:00:00 AM|400
+Movie|Flubber|Les Mayfield|Flubber is a movie about goo.|True|1/1/1920 12:00:00 AM|126mins
+CD|Hansen|Hansen|Mmmm Bop Tiggy Tock|True|2/24/2020 1:45:41 PM|50mins
